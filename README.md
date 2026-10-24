@@ -1,2 +1,2 @@
   Edited by Partner A
-   Edited by Partner B
+  Edited by Partner B
